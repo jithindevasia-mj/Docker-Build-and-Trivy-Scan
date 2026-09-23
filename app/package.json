@@ -1,0 +1,9 @@
+{
+  "name": "jenkins-docker-trivy-app",
+  "version": "1.0.0",
+  "description": "Node.js application for Jenkins Docker and Trivy pipeline",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
